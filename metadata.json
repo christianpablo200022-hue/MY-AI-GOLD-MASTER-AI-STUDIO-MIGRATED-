@@ -1,0 +1,6 @@
+{
+  "name": "MY AI GOLD MASTER",
+  "description": "Professional AI-powered XAUUSD Gold Trading Analysis Dashboard with 10 trading bots, Confidence Engine, 1H/15M confluence, 0.5% risk enforcement, and 1:2 R:R targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
